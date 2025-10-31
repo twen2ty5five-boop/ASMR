@@ -14,7 +14,7 @@ Our goal is to reach as many people as possible — if you find this project hel
 ## Table of Contents
 
 #### 1. TensorFlow
-* [TensorFlow Basics](https://github.com/twen2ty5five-boop/contents/tensorflow/baiscs_and_pipelines/main.py)
+* [TensorFlow Basics](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/baiscs_and_pipelines/main.py)
 
 
 <br/>
