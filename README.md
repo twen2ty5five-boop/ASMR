@@ -38,8 +38,8 @@ pip install torch tensorflow numpy matplotlib
 
 Or manually install:
 
-[Python 3.8+](https://python.org/downloads)
-[PyTorch](https://pytorch.org)
-[TensorFlow](https://tensorflow.org)
-[NumPy](https://numpy.org)
-[Matplotlib](https://matplotlib.org)
+#### * [Python 3.8+](https://python.org/downloads)
+#### * [PyTorch](https://pytorch.org)
+#### * [TensorFlow](https://tensorflow.org)
+#### * [NumPy](https://numpy.org)
+#### * [Matplotlib](https://matplotlib.org)
