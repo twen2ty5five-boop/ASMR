@@ -1,2 +1,3 @@
-# ASMR
-AI Samples, Models &amp; Repository (ASMR)
+<p align="center"><img width="50%" src="logo/logo.png" /></p>
+
+--------------------------------------------------------------------------------
