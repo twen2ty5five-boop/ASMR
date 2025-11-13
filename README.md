@@ -14,7 +14,13 @@ Our goal is to reach as many people as possible — if you find this project hel
 ## Table of Contents
 
 #### 1. TensorFlow
-* [TensorFlow Basics](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/baiscs_and_pipelines/main.py)
+* [텐서 연산, 자동미분](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/01_basic_operations/main.py)
+* [기본 선형회귀 구현](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/02_linear_regression/main.py)
+* [MLP 분류 모델](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/03_classification_mlp/main.py)
+* [CNN 이미지 분류](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/04_cnn_mnist/main.py)
+* [tf.data 파이프라인 예제](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/05_data_pipeline/main.py)
+* [모델 저장/ 로드 예제](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/06_save_and_load_model/main.py)
+* [종합 파이프라인 예제](https://github.com/twen2ty5five-boop/ASMR/blob/main/contents/tensorflow/baiscs_and_pipelines/main.py)
 
 
 <br/>
