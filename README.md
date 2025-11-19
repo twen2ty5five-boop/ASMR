@@ -5,7 +5,7 @@ This repository provides code resources designed to help students and researcher
 It was created as part of the Human–AI Collaborative Product and Service Design course in the Department of Industrial Convergence at Hanyang University.
 Our goal is to reach as many people as possible — if you find this project helpful, please consider giving it a ⭐ star!
 
-このリポジトリは、AI に関連する学科や研究者が AI コードを学ぶために必要なサンプルコードを提供しています。これは、漢陽大学 校産業融合学部の「人間‐AI 協働プロダクトサービス設計」授業の一環として作られたもので、多くのスターを集めることを目標としています。
+このリポジトリは、AI に関連する学科や研究者が AI コードを学ぶために必要なサンプルコードを提供しています。これは、漢陽大学 産業融合学部の「人間‐AI 協働プロダクトサービス設計」授業の一環として作られたもので、多くのスターを集めることを目標としています。
 本プロジェクトがお役に立ちましたら、ぜひスターを一つ押していただけると嬉しいです。
 
 이 저장소는 AI 관련된 학과, 연구자들이 AI 코드를 배우는데 필요한 코드를 제공합니다. 
