@@ -63,7 +63,3 @@ Or manually install:
 #### * [NumPy](https://numpy.org)
 #### * [Matplotlib](https://matplotlib.org)
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=twen2ty5five-boop/ASMR&type=date&legend=top-left)](https://www.star-history.com/#twen2ty5five-boop/ASMR&type=date&legend=top-left)
