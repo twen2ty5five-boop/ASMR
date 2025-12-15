@@ -5,12 +5,26 @@ This repository provides code resources designed to help students and researcher
 It was created as part of the Human–AI Collaborative Product and Service Design course in the Department of Industrial Convergence at Hanyang University.
 Our goal is to reach as many people as possible — if you find this project helpful, please consider giving it a ⭐ star!
 
+This project is the result of a final project conducted as part of the Human–AI Collaborative Product and Service Design course offered by the Department of Industrial Convergence at Hanyang University during the Fall 2025 semester.
+The supervising professor for this course is Professor Cheol-Hyun Jung of the Department of Industrial Convergence at Hanyang University (inbass@hanyang.ac.kr
+).
+The code and documentation are open source under the MIT License, and may be freely referenced or used; however, all risks arising from such use must be borne solely by the user
+
 このリポジトリは、AI に関連する学科や研究者が AI コードを学ぶために必要なサンプルコードを提供しています。これは、漢陽大学 産業融合学部の「人間‐AI 協働プロダクトサービス設計」授業の一環として作られたもので、多くのスターを集めることを目標としています。
 本プロジェクトがお役に立ちましたら、ぜひスターを一つ押していただけると嬉しいです。
+
+本プロジェクトは、2025年秋学期に漢陽大学産業融合学部で開講された
+「人間–AI協働プロダクト・サービス設計」授業の期末プロジェクトとして実施された成果物です。
+本授業の指導教授は、漢陽大学産業融合学部のチョン・チョルヒョン（Jung, Cheol-Hyun）教授（inbass@hanyang.ac.kr
+）です。
+コードおよび文書は MITライセンスのオープンソースとして公開されており、自由に参照・利用できますが、
+利用により生じるすべてのリスクは利用者自身が負うものとします
 
 이 저장소는 AI 관련된 학과, 연구자들이 AI 코드를 배우는데 필요한 코드를 제공합니다. 
 한양대학교 산업융합학부 인간-인공지능 협업제품서비스설계 수업의 일환으로 만들어졌으며, 많은 star를 모으는 것이 목표입니다. 
 해당 프로젝트가 도움이 되었다면 star 한번 씩 부탁드립니다.
+
+본 프로젝트는 한양대학교 산업융합학부 인간-인공지능 협업 제품 서비스 설계 수업(2025년 가을학기)의 기말 프로젝트 활동으로 진행된 결과물입니다. 본 수업의 지도 교수는 한양대 산업융합학부 정철현 교수(inbass@hanyang.ac.kr) 입니다. 코드와 문서는 오픈소스(MIT 라이센스)이므로 자유롭게 참조/사용하시되 사용으로 인한 모든 리스크는 스스로 감당하셔야 합니다.
 
 <br/>
 
