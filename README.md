@@ -11,13 +11,7 @@
 [![Hanyang Univ](https://img.shields.io/badge/Hanyang%20Univ-HYU-blueviolet)](https://www.hanyang.ac.kr/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-<br/>
-
-**Human–AI Collaborative Product and Service Design Course (Fall 2025)** *Department of Industrial Convergence, Hanyang University*
-
 </div>
-
-<br/>
 
 ---
 
