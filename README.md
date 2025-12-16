@@ -1,5 +1,4 @@
 <p align="center"><img width="50%" src="logo/logo.png" /></p>
-
 --------------------------------------------------------------------------------
 This repository provides code resources designed to help students and researchers in AI-related fields learn AI programming.
 It was created as part of the Human–AI Collaborative Product and Service Design course in the Department of Industrial Convergence at Hanyang University.
@@ -58,6 +57,7 @@ $ git clone https://github.com/twen2ty5five-boop/ASMR.git
 $ cd ASMR/contents/{PROJECT_PATH}
 $ python main.py
 ```
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/twen2ty5five-boop/ASMR?quickstart=1)
 
 <br/>
 
