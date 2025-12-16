@@ -54,9 +54,7 @@ The code and documentation are open source under the MIT License, and may be fre
 
 <br/>
 
-## 🚀 Code Resources & Quick Run
-
-Click the **"Open in Colab"** badge to run the code immediately in your browser without installation.
+## 🚀 Code Resources & Ide View
 
 ### 1. TensorFlow
 
