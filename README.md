@@ -15,8 +15,6 @@
 
 **Human–AI Collaborative Product and Service Design Course (Fall 2025)** *Department of Industrial Convergence, Hanyang University*
 
-[English](#english) | [日本語](#japanese) | [한국어](#korean)
-
 </div>
 
 <br/>
