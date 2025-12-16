@@ -57,7 +57,6 @@ $ git clone https://github.com/twen2ty5five-boop/ASMR.git
 $ cd ASMR/contents/{PROJECT_PATH}
 $ python main.py
 ```
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/twen2ty5five-boop/ASMR?quickstart=1)
 
 <br/>
 
