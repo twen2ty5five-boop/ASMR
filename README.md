@@ -2,7 +2,7 @@
 
 <img width="40%" src="logo/logo.png" alt="ASMR Logo" />
 
-# ASMR: AI Study & Material Resources
+# ASMR: AI Sample, Models & Repository
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -29,7 +29,6 @@
 <summary><b>English</b></summary>
 <br/>
 This repository provides code resources designed to help students and researchers in AI-related fields learn AI programming. It was created as part of the Human–AI Collaborative Product and Service Design course in the Department of Industrial Convergence at Hanyang University. Our goal is to reach as many people as possible — if you find this project helpful, please consider giving it a ⭐ star!<br/><br/>
-This project is the result of a final project conducted as part of the Human–AI Collaborative Product and Service Design course offered by the Department of Industrial Convergence at Hanyang University during the Fall 2025 semester.
 The supervising professor for this course is Professor Cheol-Hyun Jung of the Department of Industrial Convergence at Hanyang University (inbass@hanyang.ac.kr).
 The code and documentation are open source under the MIT License, and may be freely referenced or used; however, all risks arising from such use must be borne solely by the user
 </details>
@@ -38,9 +37,7 @@ The code and documentation are open source under the MIT License, and may be fre
 <summary><b>🇯🇵 日本語</b></summary>
 <br/>
 このリポジトリは、AI に関連する学科や研究者が AI コードを学ぶために必要なサンプルコードを提供しています。これは、漢陽大学 産業融合学部の「人間‐AI 協働プロダクトサービス設計」授業の一環として作られたもので、多くのスターを集めることを目標としています。本プロジェクトがお役に立ちましたら、ぜひスターを一つ押していただけると嬉しいです。<br/><br/>
-本授業の指導教授は、漢陽大学産業融合学部のチョン・チョルヒョン（Jung, Cheol-Hyun）教授（inbass@hanyang.ac.kr）です。
-コードおよび文書は MITライセンスのオープンソースとして公開されており、自由に参照・利用できますが、
-利用により生じるすべてのリスクは利用者自身が負うものとします
+本授業の指導教授は、漢陽大学産業融合学部のチョン・チョルヒョン（Jung, Cheol-Hyun）教授（inbass@hanyang.ac.kr）です。コードおよび文書は MITライセンスのオープンソースとして公開されており、自由に参照・利用できますが、利用により生じるすべてのリスクは利用者自身が負うものとします
 </details>
 
 <details open>
